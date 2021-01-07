@@ -54,7 +54,7 @@ eeui 只支持 `overflow:hidden`.
 
 ### 边框
 #### border-style
-`border-width`设定边框样式，如果四个方向的边框样式不同，可分别设置：
+`border-style`设定边框样式，如果四个方向的边框样式不同，可分别设置：
   * `border-style {string}`
   * `border-left-style {string}`：可选值为 `solid` | `dashed` | `dotted`，默认值 `solid`
   * `border-top-style {string}`：可选值为 `solid` | `dashed` | `dotted`，默认值 `solid`
@@ -68,7 +68,7 @@ eeui 只支持 `overflow:hidden`.
 
 #### border-width
 `border-width`：设定边框宽度，非负值, 默认值 0，如果四个方向的边框宽度不同，可分别设置：
-  * `border-left-width {length}`：非负值, 默认值 0
+  * `border-width {length}`：非负值, 默认值 0
   * `border-left-width {length}`：非负值, 默认值 0
   * `border-top-width {length}`：非负值, 默认值 0
   * `border-right-width {length}`：非负值, 默认值 0
